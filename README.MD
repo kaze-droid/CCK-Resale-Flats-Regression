@@ -1,0 +1,1 @@
+The goal of this project was to manually code out a Simple Linear Regression Model and implement Gradient Descent using only numpy and pandas for my Math For AI module
